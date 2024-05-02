@@ -36,3 +36,4 @@ C:\Users\user\Documents\Dev-bold\Movies\obj\Debug\net8.0\refint\Movies.dll
 C:\Users\user\Documents\Dev-bold\Movies\obj\Debug\net8.0\Movies.pdb
 C:\Users\user\Documents\Dev-bold\Movies\obj\Debug\net8.0\Movies.genruntimeconfig.cache
 C:\Users\user\Documents\Dev-bold\Movies\obj\Debug\net8.0\ref\Movies.dll
+C:\Users\user\Documents\Dev-bold\Movies\obj\Debug\net8.0\Movies.sourcelink.json
